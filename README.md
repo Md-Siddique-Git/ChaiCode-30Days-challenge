@@ -1,4 +1,4 @@
 # ChaiCode-30Days-challenge
 Begining of new Journey of Challenge  
 
-Day 1: completed my challenge successfully
+completed my challenge successfully till Day 4 and uploaded it.
